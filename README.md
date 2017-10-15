@@ -44,5 +44,5 @@ you can change the directory (if you wish) to store the generated javadoc.
 ## <a name="contributors"></a> Contributors
 
 * [Khadem Avinoor Alam](https://github.com/DemonFangs/)
-* [Jhanperera](https://github.com/jhanperera)
+* [Jhan Perera](https://github.com/jhanperera)
 * [Bilal]
