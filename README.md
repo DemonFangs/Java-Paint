@@ -1,4 +1,4 @@
-# <a name="JPaint"></a>JavaPaint - A java based paint program [![Analytics](Images/mainIcon.png)](https://github.com/DemonFangs/Java-Paint)
+# <a name="JPaint"></a>JavaPaint - A java based paint program [![Analytics](Images/readme-icon.png)](https://github.com/DemonFangs/Java-Paint)
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
@@ -12,12 +12,12 @@
 
 - Compile
 ```sh
-			javac JavaPaint.java
+	javac JavaPaint.java
 ```
 
 - Run
 ```sh
-			java JavaPaint
+	java JavaPaint
 ```
 
 
@@ -37,7 +37,7 @@ edit the imported image using said tools.
 
 To generate a javadoc for the program copy paste the following command in the terminal:
 ```sh
-javadoc -tag param -tag.:a:"Precondition: " -tag return -d javadoc/ *.java
+	javadoc -tag param -tag.:a:"Precondition: " -tag return -d javadoc/ *.java
 ```
 you can change the directory (if you wish) to store the generated javadoc.
 
